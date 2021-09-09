@@ -1,3 +1,4 @@
+/* eslint-disable eqeqeq */
 /* eslint-disable func-style */
 /* eslint-disable no-undef */
 /*
@@ -93,7 +94,8 @@ $(()=>{
     const text = validateForm();
     event.preventDefault();
     if (text) {
-      alert(text);
+      $('.error').text(text);
+      $('.error').slideDown("slow");
       console.log('the form has not been submitted');
       return;
     }
@@ -106,6 +108,7 @@ $(()=>{
     //   // $('#tweet-text').val('');
     //   console.log();
     // });
+    $('.error').slideUp("slow");
     console.log('the form has been submitted');
 
     const serializedData = $(this).serialize();
