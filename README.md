@@ -2,7 +2,14 @@
 
 Tweeter is a simple, single-page Twitter clone.
 
-This repository is the starter code for the project: Students will fork and clone this repository, then build upon it to practice their HTML, CSS, JS, jQuery and AJAX front-end skills, and their Node, Express and MongoDB back-end skills.
+The Tweeter has "new-tweet" section with input field and symbol's counter, which has validation feature and appropriare error messages. The "list of tweets" section "grows" with new tweets without nessessity of refreshing the page. It was made with Responsive Design so the app adjusts its structure depends on the screen parameters.
+
+This SPA written with HTML, CSS, JS, jQuery and AJAX front-end skills, and their Node, Express and MongoDB back-end skills.
+## Screenshots
+- ["Mobile screen version of the app"]()
+- ["Validation works!"]()
+- ["Desktop screen version of the app with new publication"]()
+
 
 ## Getting Started
 
@@ -14,4 +21,6 @@ This repository is the starter code for the project: Students will fork and clon
 ## Dependencies
 
 - Express
+- Bode-parser
+- Chance
 - Node 5.10.x or above
