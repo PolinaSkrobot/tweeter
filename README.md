@@ -6,9 +6,9 @@ The Tweeter has "new-tweet" section with input field and symbol's counter, which
 
 This SPA written with HTML, CSS, JS, jQuery and AJAX front-end skills, and their Node, Express and MongoDB back-end skills.
 ## Screenshots
-- ["Mobile screen version of the app"](https://github.com/PolinaSkrobot/tweeter/blob/master/docs/mobileVersion.png)
-- ["Validation works!"](https://github.com/PolinaSkrobot/tweeter/blob/master/docs/error.png)
-- ["Desktop screen version of the app with new publication"](https://github.com/PolinaSkrobot/tweeter/blob/master/docs/publication.png)
+!["Mobile screen version of the app"](https://github.com/PolinaSkrobot/tweeter/blob/master/docs/mobileVersion.png)
+!["Validation works!"](https://github.com/PolinaSkrobot/tweeter/blob/master/docs/error.png)
+!["Desktop screen version of the app with new publication"](https://github.com/PolinaSkrobot/tweeter/blob/master/docs/publication.png)
 
 
 ## Getting Started
