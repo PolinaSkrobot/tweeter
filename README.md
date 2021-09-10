@@ -6,7 +6,7 @@ The Tweeter has "new-tweet" section with input field and symbol's counter, which
 
 This SPA written with HTML, CSS, JS, jQuery and AJAX front-end skills, and their Node, Express and MongoDB back-end skills.
 ## Screenshots
-!["Video of functionality"]()
+!["Video of functionality"](https://github.com/PolinaSkrobot/tweeter/blob/master/docs/v.gif)
 
 
 ## Getting Started
