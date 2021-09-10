@@ -45,4 +45,7 @@ nav {
   background-image: url("https://www.transparenttextures.com/patterns/slash-it.png");
  
   }
+  textarea {
+    margin-top: 60px;
+  }
 }

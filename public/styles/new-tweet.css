@@ -12,8 +12,8 @@
   background-color: transparent;  
 
 }
-.clue {
-  opacity: 0.5;
+textarea:focus::placeholder {
+  color: transparent;
 }
 
 .bottom {
